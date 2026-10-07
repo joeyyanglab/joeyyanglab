@@ -1,14 +1,21 @@
-<div align="center">
+<picture>
+  <source media="(max-width: 767px)" srcset="./assets/lab-banner-mobile.svg" />
+  <img src="./assets/lab-banner.svg" width="100%" alt="Joey Yang Lab — Safety Systems × AI × Knowledge Infrastructure. From risk signals to better decisions. From experience to intelligence." />
+</picture>
 
-<img src="./assets/joey-yang-lab-banner.svg" alt="Joey Yang Lab — Safety Systems × AI × Knowledge Infrastructure" width="100%" />
+<picture>
+  <source media="(max-width: 767px)" srcset="./assets/lab-dashboard-mobile.svg" />
+  <img src="./assets/lab-dashboard.svg" width="100%" alt="Hey, I’m Joey. A public lab for safety, AI, knowledge systems and sustainability. Building JoeyOS, Safety Intelligence and AI Workflows. Current workstreams include Field Notes. Observe the signal. Preserve the context. Improve the decision. Capture the learning." />
+</picture>
 
-<br/>
+[LinkedIn](https://www.linkedin.com/in/joeyyang) · [X](https://x.com/JoeyYang2008)
+
+<details>
+<summary>Read the profile as text</summary>
 
 **Safety professional exploring how AI, systems thinking, and knowledge infrastructure can improve real-world judgment.**
 
 `Safety Systems` · `Operational Risk` · `AI` · `Knowledge Systems`
-
-</div>
 
 ---
 
@@ -21,12 +28,6 @@ The problem is rarely a lack of information.
 The harder problem is turning that information into **context, judgment, decisions, and learning that can be reused**.
 
 **Joey Yang Lab** is my public workspace for exploring that problem across three connected domains:
-
-<div align="center">
-
-<img src="./assets/lab-domains.svg" alt="Joey Yang Lab domains — Safety Systems, AI & Automation, and Knowledge Infrastructure" width="100%" />
-
-</div>
 
 > **The goal is not automation for its own sake. The goal is better judgment, earlier risk recognition, and learning that compounds.**
 
@@ -95,21 +96,9 @@ A good system should help answer:
 
 **What happened? → Why does it matter? → What should we do? → What did we learn? → How do we reuse it?**
 
-<div align="center">
-
-<img src="./assets/intelligence-loop.svg" alt="Signals to context to judgment to decision to learning" width="100%" />
-
-</div>
-
 ---
 
 ## 🚧 Current Projects
-
-<div align="center">
-
-<img src="./assets/current-projects.svg" alt="Joey Yang Lab current projects — JoeyOS, Safety Intelligence Lab, AI Workflows, and Field Notes" width="100%" />
-
-</div>
 
 These are the Lab's current workstreams:
 
@@ -123,10 +112,8 @@ These are the Lab's current workstreams:
 
 ---
 
-<div align="center">
-
 ### Joey Yang Lab
 
 **Building safer systems. Thinking across disciplines. Turning experience into intelligence.**
 
-</div>
+</details>
