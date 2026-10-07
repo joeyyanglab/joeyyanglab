@@ -105,17 +105,21 @@ A good system should help answer:
 
 ## 🚧 Current Projects
 
-**JoeyOS**  
-Personal AI and knowledge infrastructure.
+<div align="center">
 
-**Safety Intelligence Lab**  
-Experiments at the intersection of AI, safety, risk, and decision-making.
+<img src="./assets/current-projects.svg" alt="Joey Yang Lab current projects — JoeyOS, Safety Intelligence Lab, AI Workflows, and Field Notes" width="100%" />
 
-**AI Workflows**  
-Reusable workflows, agents, skills, and small tools.
+</div>
 
-**Field Notes**  
-Research, frameworks, lessons, and ideas developed while building.
+These are the Lab's current workstreams:
+
+**JoeyOS** — Personal AI and knowledge infrastructure focused on persistent context, human-owned knowledge, and multi-AI collaboration.
+
+**Safety Intelligence Lab** — Applied exploration of weak signals, operational risk, incident learning, assurance, and decision quality.
+
+**AI Workflows** — Small, purpose-built tools, agents, skills, and repeatable workflows for professional knowledge work.
+
+**Field Notes** — Research notes, frameworks, lessons, experiments, and ideas captured while building the Lab.
 
 ---
 
