@@ -1,3 +1,9 @@
+<div align="center">
+
+<img src="./assets/joey-yang-lab-banner.svg" alt="Joey Yang Lab — Safety Systems × AI × Knowledge Infrastructure" width="100%" />
+
+</div>
+
 # Joey Yang
 
 ### Safety Systems × AI × Knowledge Infrastructure
