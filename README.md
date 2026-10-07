@@ -20,15 +20,13 @@ The problem is rarely a lack of information.
 
 The harder problem is turning that information into **context, judgment, decisions, and learning that can be reused**.
 
-**Joey Yang Lab** is my public workspace for exploring that problem at the intersection of:
+**Joey Yang Lab** is my public workspace for exploring that problem across three connected domains:
 
-| Safety Systems | AI & Automation | Knowledge Infrastructure |
-| --- | --- | --- |
-| Weak signals | Purpose-built agents | Persistent context |
-| Operational risk | AI-assisted analysis | Knowledge architecture |
-| Incident learning | Repeatable workflows | Provenance & traceability |
-| Assurance & audits | Human-AI collaboration | Organizational memory |
-| Decision quality | Small tools & skills | Reusable intelligence |
+<div align="center">
+
+<img src="./assets/lab-domains.svg" alt="Joey Yang Lab domains — Safety Systems, AI & Automation, and Knowledge Infrastructure" width="100%" />
+
+</div>
 
 > **The goal is not automation for its own sake. The goal is better judgment, earlier risk recognition, and learning that compounds.**
 
@@ -96,6 +94,12 @@ I believe useful technology should improve **clarity, judgment, traceability, an
 A good system should help answer:
 
 **What happened? → Why does it matter? → What should we do? → What did we learn? → How do we reuse it?**
+
+<div align="center">
+
+<img src="./assets/intelligence-loop.svg" alt="Signals to context to judgment to decision to learning" width="100%" />
+
+</div>
 
 ---
 
