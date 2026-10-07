@@ -2,19 +2,35 @@
 
 <img src="./assets/joey-yang-lab-banner.svg" alt="Joey Yang Lab — Safety Systems × AI × Knowledge Infrastructure" width="100%" />
 
+<br/>
+
+**Safety professional exploring how AI, systems thinking, and knowledge infrastructure can improve real-world judgment.**
+
+`Safety Systems` · `Operational Risk` · `AI` · `Knowledge Systems`
+
 </div>
 
-# Joey Yang
+---
 
-### Safety Systems × AI × Knowledge Infrastructure
+## Why Joey Yang Lab Exists
 
-I work at the intersection of **safety, operational risk, AI, and knowledge systems**.
+Most professional knowledge is fragmented across meetings, documents, incidents, audits, projects, and individual experience.
 
-My core interest is simple:
+The problem is rarely a lack of information.
 
-> **How can better systems help us recognize risk earlier, make better decisions, and turn experience into reusable intelligence?**
+The harder problem is turning that information into **context, judgment, decisions, and learning that can be reused**.
 
-GitHub is my public lab for exploring that question.
+**Joey Yang Lab** is my public workspace for exploring that problem at the intersection of:
+
+| Safety Systems | AI & Automation | Knowledge Infrastructure |
+| --- | --- | --- |
+| Weak signals | Purpose-built agents | Persistent context |
+| Operational risk | AI-assisted analysis | Knowledge architecture |
+| Incident learning | Repeatable workflows | Provenance & traceability |
+| Assurance & audits | Human-AI collaboration | Organizational memory |
+| Decision quality | Small tools & skills | Reusable intelligence |
+
+> **The goal is not automation for its own sake. The goal is better judgment, earlier risk recognition, and learning that compounds.**
 
 ---
 
@@ -26,6 +42,8 @@ An AI-native personal knowledge operating system designed to become a persistent
 
 **Capture → Distill → Connect → Reason → Create → Evolve**
 
+JoeyOS explores how a human-owned knowledge system can remain useful even as AI models, interfaces, and tools continue to change.
+
 ---
 
 ### 🛡️ Safety Intelligence
@@ -33,11 +51,15 @@ An AI-native personal knowledge operating system designed to become a persistent
 Exploring how AI can strengthen real-world safety and operational risk management through:
 
 - weak-signal detection
-- risk triage
-- incident learning
+- risk triage and prioritization
+- incident and near-miss learning
 - audit intelligence
 - decision traceability
 - organizational learning
+
+The central question is:
+
+> **Can we recognize risk earlier by connecting signals that traditional systems often leave fragmented?**
 
 ---
 
@@ -45,25 +67,35 @@ Exploring how AI can strengthen real-world safety and operational risk managemen
 
 Building small, purpose-built tools, agents, skills, and workflows that improve professional judgment rather than simply automate work.
 
+The focus is on recurring work where **context and domain judgment matter**:
+
+**raw information → structured analysis → decision support → reusable output**
+
 ---
 
-## 🔬 What I'm Exploring
+## 🔬 Questions I'm Exploring
 
 **Can AI identify weak signals before they become incidents?**
 
 **How can organizational experience become reusable intelligence instead of forgotten documents?**
 
-**How should humans and AI work together when judgment matters?**
+**How should humans and AI work together when professional judgment matters?**
 
 **What should a personal knowledge system look like when AI becomes a permanent collaborator?**
 
+**How can small, purpose-built tools create more value than generic automation?**
+
 ---
 
-## 🧭 How I Think
+## 🧭 Working Philosophy
 
 > **Observe the signal. Preserve the context. Improve the decision. Capture the learning.**
 
-I believe useful technology should improve **clarity, judgment, and learning** — not simply help us do more things faster.
+I believe useful technology should improve **clarity, judgment, traceability, and learning** — not simply help us do more things faster.
+
+A good system should help answer:
+
+**What happened? → Why does it matter? → What should we do? → What did we learn? → How do we reuse it?**
 
 ---
 
@@ -83,6 +115,10 @@ Research, frameworks, lessons, and ideas developed while building.
 
 ---
 
+<div align="center">
+
 ### Joey Yang Lab
 
 **Building safer systems. Thinking across disciplines. Turning experience into intelligence.**
+
+</div>
