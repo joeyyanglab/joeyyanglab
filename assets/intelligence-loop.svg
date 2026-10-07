@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="390" viewBox="0 0 1600 390" role="img" aria-labelledby="t2 d2">
+<title id="t2">From information to intelligence</title>
+<desc id="d2">Signals become context, judgment, decisions, learning and reusable intelligence.</desc>
+<defs>
+  <linearGradient id="b2" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#081321"/><stop offset="100%" stop-color="#0b1e33"/></linearGradient>
+  <style>
+    .k{font:600 18px -apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif;letter-spacing:3px;fill:#6ec8ef}
+    .h{font:700 23px -apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif;fill:#f2f8fc}
+    .p{font:500 16px -apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif;fill:#9fb6cb}
+    .box{fill:#0d2136;stroke:#31536d;stroke-width:1.5}
+    .arr{stroke:#64bee7;stroke-width:2.5;fill:none;opacity:.7}
+  </style>
+  <marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#64bee7"/></marker>
+</defs>
+<rect width="1600" height="390" rx="22" fill="url(#b2)"/>
+<text class="k" x="100" y="78">FROM INFORMATION TO REUSABLE INTELLIGENCE</text>
+
+<g transform="translate(90 135)">
+ <rect class="box" width="220" height="120" rx="15"/><text class="h" x="28" y="48">Signals</text><text class="p" x="28" y="78">Events · data · observations</text>
+</g>
+<g transform="translate(390 135)">
+ <rect class="box" width="220" height="120" rx="15"/><text class="h" x="28" y="48">Context</text><text class="p" x="28" y="78">History · evidence · meaning</text>
+</g>
+<g transform="translate(690 135)">
+ <rect class="box" width="220" height="120" rx="15"/><text class="h" x="28" y="48">Judgment</text><text class="p" x="28" y="78">Interpret · challenge · assess</text>
+</g>
+<g transform="translate(990 135)">
+ <rect class="box" width="220" height="120" rx="15"/><text class="h" x="28" y="48">Decision</text><text class="p" x="28" y="78">Act · prioritize · escalate</text>
+</g>
+<g transform="translate(1290 135)">
+ <rect class="box" width="220" height="120" rx="15"/><text class="h" x="28" y="48">Learning</text><text class="p" x="28" y="78">Capture · reuse · improve</text>
+</g>
+
+<path class="arr" marker-end="url(#arrow)" d="M310 195H380"/>
+<path class="arr" marker-end="url(#arrow)" d="M610 195H680"/>
+<path class="arr" marker-end="url(#arrow)" d="M910 195H980"/>
+<path class="arr" marker-end="url(#arrow)" d="M1210 195H1280"/>
+<path class="arr" marker-end="url(#arrow)" d="M1400 275 C1400 338 200 338 200 275"/>
+
+<text class="p" x="598" y="345">Learning feeds the next signal with better context.</text>
+</svg>
